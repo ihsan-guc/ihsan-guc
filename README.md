@@ -1,8 +1,8 @@
 ## I am a software developer, and student. My nickname Eysan.
 
 
-** 🌱 I am a 4 grade student in software engineering.
-** 💼 Currently working as:** Software Engineering Intern at <a href="http://znoyazilim.com/" target="_blank"><b>ZNO YAZILIM</b></a>
+* 🌱 I am a 4 grade student in software engineering.
+* 💼 Currently working as:** Software Engineering Intern at <a href="http://znoyazilim.com/" target="_blank"><b>ZNO YAZILIM</b></a>
 
 
 
