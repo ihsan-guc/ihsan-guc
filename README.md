@@ -2,7 +2,7 @@
 
 
 * 🌱 I am a 4 grade student in software engineering.
-* 💼 Currently working as:** Software Engineering Intern at <a href="http://znoyazilim.com/" target="_blank"><b>ZNO YAZILIM</b></a>
+* 💼 Currently working as: **Software Engineering Intern at <a href="http://znoyazilim.com/" target="_blank"><b>ZNO YAZILIM</b></a>
 
 
 
