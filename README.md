@@ -1,8 +1,7 @@
-## I am a software developer, and student. My nickname Eysan.
+## I am a software developer and Beginner DevOps deveopler, and student. My nickname Eysan.
 
 
-* 🌱 I am a 4 grade student in software engineering.
-* 💼 Currently working as: **Software Engineering Intern at <a href="https://sanctionscanner.com/" target="_blank"><b>Codevist and Sanction Scanner.</b></a>
+* 💼 Currently working as: **Software Engineering and Beginner DevOps developer <a href="https://www.quintetworks.com/" target="_blank"><b> Quintet Works.</b></a>
 
 
 
