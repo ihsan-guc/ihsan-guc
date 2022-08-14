@@ -1,4 +1,4 @@
-## I am a software developer and Beginner DevOps deveopler, and student. My nickname Eysan.
+## I am a software developer and Beginner DevOps deveopler. My nickname Eysan.
 
 
 * 💼 Currently working as: **Software Engineering and Beginner DevOps developer <a href="https://www.quintetworks.com/" target="_blank"><b> Quintet Works.</b></a>
