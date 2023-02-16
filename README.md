@@ -3,10 +3,10 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/ihsan-g%C3%BC%C3%A7-873024156/">
-    <img align="center" src="https://github.com/ihsan-guc/MoreExamples/blob/main/Image/1.svg" width="40px" style="max-width:100%;">
+    <img align="center" src="https://github.com/ihsan-guc/ihsan-guc/blob/master/icons/linkedin-icons.svg" width="40px" style="max-width:100%;">
   </a>
    <a href="https://medium.com/@ihsanguc-33">
-    <img align="center" src="https://github.com/ihsan-guc/MoreExamples/blob/main/Image/7.svg" width="40px" style="max-width:100%;">
+    <img align="center" src="https://github.com/ihsan-guc/ihsan-guc/blob/master/icons/medium-icons.svg" width="40px" style="max-width:100%;">
   </a>
 </p>
 
